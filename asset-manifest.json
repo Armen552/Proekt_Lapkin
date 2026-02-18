@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a7cf556b.css",
-    "main.js": "/static/js/main.b85c67bc.js",
-    "static/media/cardFront.png": "/static/media/cardFront.053940c1b6cb7f93d076.png",
-    "static/media/cardBack.png": "/static/media/cardBack.d6acb10248d1c6030d25.png",
-    "static/media/cinzel.ttf": "/static/media/cinzel.3ee1143b25cccb6510a0.ttf",
-    "static/media/newFamily.ttf": "/static/media/newFamily.16e75560f7a39b15debc.ttf",
-    "index.html": "/index.html",
-    "main.a7cf556b.css.map": "/static/css/main.a7cf556b.css.map",
-    "main.b85c67bc.js.map": "/static/js/main.b85c67bc.js.map"
+    "main.css": "/Proekt_Lapkin/static/css/main.4ac5d9ab.css",
+    "main.js": "/Proekt_Lapkin/static/js/main.b85c67bc.js",
+    "static/media/cardFront.png": "/Proekt_Lapkin/static/media/cardFront.053940c1b6cb7f93d076.png",
+    "static/media/cardBack.png": "/Proekt_Lapkin/static/media/cardBack.d6acb10248d1c6030d25.png",
+    "static/media/cinzel.ttf": "/Proekt_Lapkin/static/media/cinzel.3ee1143b25cccb6510a0.ttf",
+    "static/media/newFamily.ttf": "/Proekt_Lapkin/static/media/newFamily.16e75560f7a39b15debc.ttf",
+    "index.html": "/Proekt_Lapkin/index.html",
+    "main.4ac5d9ab.css.map": "/Proekt_Lapkin/static/css/main.4ac5d9ab.css.map",
+    "main.b85c67bc.js.map": "/Proekt_Lapkin/static/js/main.b85c67bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7cf556b.css",
+    "static/css/main.4ac5d9ab.css",
     "static/js/main.b85c67bc.js"
   ]
 }
